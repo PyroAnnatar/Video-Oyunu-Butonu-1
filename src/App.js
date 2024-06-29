@@ -4,7 +4,7 @@ import { useState } from "react";
 export default function App() {
   const [gameRunning, setGameRunning] = useState(false);
 
-  /* Challenge
+  /* Challeng
   
     Kullanıcının bir video oyununu oynatmasını ve duraklatmasını sağlayacak buton oluşturuyorsunuz. Göreviniz bunu ayarlamak ve aşağıdaki div'e (satır 26) aşağıdaki gibi yerleştirmektir: 
             
